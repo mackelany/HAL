@@ -1,2 +1,1 @@
-# HAL
-Hackney Agile Lifecycle
+# Hackney Agile Lifecycle
