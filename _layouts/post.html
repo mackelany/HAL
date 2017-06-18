@@ -210,10 +210,7 @@ layout: default
     background-position:left -40px;
 }
 	</style>
-    
-  
-			
-			<script type="text/javascript">
+ 		<script type="text/javascript">
 			
 			$(function(){
 			$('.Starcontainer').rating(function(vote, event){
@@ -234,24 +231,13 @@ var xml;
     {{ content }}
   </div>
 
+    <br /> <br />  
+    <br /> <br />
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Last updated on 18/06/2017 
   </div>
 
   {% include disqus.html %}
   <br /> <br />
-    <div class="date">
-	    <strong>Rate It:</strong>
-	    </div>
- <!--Star Rating-->
-   <div class="Starcontainer">
-	
-        <input type="radio" name="example" class="rating" value="1" />
-        <input type="radio" name="example" class="rating" value="2" />
-        <input type="radio" name="example" class="rating" value="3" />
-        <input type="radio" name="example" class="rating" value="4" />
-        <input type="radio" name="example" class="rating" value="5" />
-		
-    </div>
 	
 </article>
