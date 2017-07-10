@@ -13,7 +13,7 @@ The importance of this phase is that the service won’t yet have delivered ever
 
 
 
-The improve phase enables the team to continue investing in the iteration and enhancement of the service, whilst ensuring the current version is well-supported.
+The improve phase enables the team to continue investing in the iteration and enhancement of the service, whilst ensuring the current version is well-supported. New changes or additions to functionality will have to be assessed from a security point of view, mitigating against new vulnerabilities. Part of keeping a product secure and relevant is managing their updates and patches.
 
 
 
@@ -33,8 +33,9 @@ Ideally, there will be a core team that continues to work together during this p
 You may need to draw on the skills of:
 
 <ul>
-<li>Business Analysis</li>
+<li>Business analysis</li>
 <li>Project manager</li>
+<li>Information security</li>
 </ul>
 
 
@@ -42,7 +43,7 @@ You may need to draw on the skills of:
 
 Decisions about the prioritisation of user stories will be made by the Product Owner and releases will need to be signed-off by the PO. Any decisions for further investment should be made by the Directorate steering group, prior to any formal financial bids or approvals processes.
 
-Any changes to the functionality of the service, or its relationship to other services, will require a change management request through the ICT CAB.[ 
+Any changes to the functionality of the service, or its relationship to other services, will require a change management request through the ICT CAB. 
 
 
 <h2  id="C3">Tools</h2>
