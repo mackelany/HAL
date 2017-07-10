@@ -13,7 +13,7 @@ The importance of this phase is that the service won’t yet have delivered ever
 
 
 
-The improve phase enables the team to continue investing in the iteration and enhancement of the service, whilst ensuring the current version is well-supported. New changes or additions to functionality will have to be assessed from a security point of view, mitigating against new vulnerabilities. Part of keeping a product secure and relevant is managing their updates and patches.
+The improve phase enables the team to continue investing in the iteration and enhancement of the service, whilst ensuring the current version is well-supported. New changes or additions to functionality will have to be assessed from a security point of view, mitigating against new vulnerabilities. Part of keeping a product secure and relevant is managing its updates and patches.
 
 
 
