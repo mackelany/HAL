@@ -37,6 +37,7 @@ And may involve:
 <li>Suppliers of existing solutions</li>
 <li>Applications Support Officer</li>
 <li>Engineers to install solutions, establish connectivity or configure servers </li>
+<li>Information security, to assess confiuration and setup </li>
 </ul>
 
 <h2  id="C2">Governance</h2>
